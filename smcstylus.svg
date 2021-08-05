@@ -30,7 +30,7 @@
 				}
 				.container {
 					padding: 4px 8px;
-					min-height: 300px;
+					min-height: 600px;
           width:80%;
           margin: 0 auto;
 					background: rgb(64,66,85);
