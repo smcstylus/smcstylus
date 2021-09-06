@@ -110,15 +110,7 @@
 			<div class="header">
 				<h1>Hi, I'm Mihai</h1>
 			</div>
-			<div class="container">
-				<p>
-					I’m interested in WebDevelopement (PHP, JavaScript, CSS, jQuery, WordPress, MongoDB, node.JS) and Graphic Design
-					<span class="space"></span>
-						I’m currently learning MERN
-					<span class="space"></span>
-					<a class="underline-from-center" href="https://smcstylus.github.io">https://smcstylus.github.io</a>
-        </p>
-			</div>
+			
 		</div>
 	</foreignObject>
 </svg>
