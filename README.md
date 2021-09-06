@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-		<img src="smcstylus.svg" width="800" height="150" alt="">
+		<img src="smcs.svg" width="800" height="150" alt="">
 	<br>
 	<div class="container">
 				<p>
